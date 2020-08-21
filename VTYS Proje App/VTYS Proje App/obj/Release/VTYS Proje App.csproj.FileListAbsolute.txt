@@ -1,0 +1,22 @@
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Release\VTYS Proje App.exe.config
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Release\VTYS Proje App.csproj.ResolveComReference.cache
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Release\VTYS Proje App.exe
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Release\VTYS Proje App.pdb
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Release\VTYS Proje App.csprojResolveAssemblyReference.cache
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Release\VTYS_Proje_App.frmGiris.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Release\VTYS_Proje_App.frmAna.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Release\VTYS_Proje_App.frmKullaniciEkle.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Release\VTYS_Proje_App.frmKullaniciDuzenle.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Release\VTYS_Proje_App.frmMusteriDuzenle.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Release\VTYS_Proje_App.frmMusteriEkle.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Release\VTYS_Proje_App.frmSiparisVer.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Release\VTYS_Proje_App.frmStokRapor.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Release\VTYS_Proje_App.frmUrunEkle.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Release\VTYS_Proje_App.frmUrunDuzenle.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Release\VTYS_Proje_App.frmUrunBilgi.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Release\VTYS_Proje_App.Properties.Resources.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Release\VTYS Proje App.csproj.GenerateResource.Cache
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Release\RdlCompile.cache
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Release\RdlCompile.compiled
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Release\VTYS Proje App.exe
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Release\VTYS Proje App.pdb

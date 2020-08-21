@@ -1,0 +1,63 @@
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\VTYS Proje App.exe.config
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\VTYS Proje App.exe
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\VTYS Proje App.pdb
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\office.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\stdole.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\office.xml
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\odev.csprojAssemblyReference.cache
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.DTSPipeline.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxAgg.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxBDD.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxDataConvert.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxDerived.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxLookup.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxSplit.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\odev.csproj.ResolveComReference.cache
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmGiris.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmAna.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmKullaniciEkle.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmKullaniciDuzenle.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmMusteriDuzenle.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmMusteriEkle.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmSiparisVer.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmStokRapor.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmUrunEkle.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmUrunDuzenle.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.Properties.Resources.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\odev.csproj.GenerateResource.cache
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\odev.csproj.CopyComplete
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.exe
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.pdb
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.RPT.FRM_RPT_MUSTER.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\CrystalDecisions.Shared.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\FlashControlV71.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\ShockwaveFlashObjects.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.RPT.FRM_RPT_SIPARIS.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\excel.dll

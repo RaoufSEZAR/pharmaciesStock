@@ -1,0 +1,162 @@
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\VTYS Proje App.exe.config
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\VTYS Proje App.exe
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\VTYS Proje App.pdb
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmGiris.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.Properties.Resources.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.csproj.GenerateResource.Cache
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.exe
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.pdb
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmAna.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmKullaniciEkle.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmKullaniciDuzenle.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmUrunEkle.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmUrunDuzenle.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmUrunBilgi.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.csproj.ResolveComReference.cache
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\RdlCompile.cache
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\RdlCompile.compiled
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmMusteriEkle.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmMusteriDuzenle.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmSiparisVer.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmStokRapor.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmSatisRapor.resources
+C:\Users\Kankamet\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.csprojResolveAssemblyReference.cache
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.csprojResolveAssemblyReference.cache
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.csproj.ResolveComReference.cache
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmGiris.resources
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmAna.resources
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmKullaniciEkle.resources
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmKullaniciDuzenle.resources
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmMusteriDuzenle.resources
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmMusteriEkle.resources
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmSiparisVer.resources
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmStokRapor.resources
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmUrunEkle.resources
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmUrunDuzenle.resources
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.Properties.Resources.resources
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.csproj.GenerateResource.cache
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.csproj.CoreCompileInputs.cache
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.exe
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.pdb
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\VTYS Proje App.exe.config
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\VTYS Proje App.exe
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\VTYS Proje App.pdb
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.csproj.CopyComplete
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.DTSPipeline.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxAgg.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxBDD.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxBestMatch.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxCache.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxCopyMap.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxDataConvert.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxDerived.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxGroupDups.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxLookup.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxSplit.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxTermExtractionLib.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\stdole.dll
+C:\Users\blal\Desktop\VTYS PROJE\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\VTYS Proje App.exe.config
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\VTYS Proje App.exe
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\VTYS Proje App.pdb
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\stdole.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.csprojResolveAssemblyReference.cache
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.DTSPipeline.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxAgg.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxBDD.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxBestMatch.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxCache.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxCopyMap.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxDataConvert.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxDerived.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxGroupDups.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxLookup.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxSplit.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxTermExtractionLib.dll
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.csproj.ResolveComReference.cache
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmGiris.resources
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmAna.resources
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmKullaniciEkle.resources
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmKullaniciDuzenle.resources
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmMusteriDuzenle.resources
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmMusteriEkle.resources
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmSiparisVer.resources
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmStokRapor.resources
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmUrunEkle.resources
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmUrunDuzenle.resources
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.Properties.Resources.resources
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.csproj.GenerateResource.cache
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.csproj.CoreCompileInputs.cache
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.csproj.CopyComplete
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.exe
+C:\Users\blal\Desktop\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.pdb
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\VTYS Proje App.exe.config
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\VTYS Proje App.exe
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\VTYS Proje App.pdb
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\stdole.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.csprojAssemblyReference.cache
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.DTSPipeline.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxAgg.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxBDD.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxDataConvert.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxDerived.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxLookup.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\Interop.TxSplit.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.csproj.ResolveComReference.cache
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmGiris.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmAna.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmKullaniciEkle.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmKullaniciDuzenle.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmMusteriDuzenle.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmMusteriEkle.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmSiparisVer.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmStokRapor.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmUrunEkle.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.frmUrunDuzenle.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS_Proje_App.Properties.Resources.resources
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.csproj.GenerateResource.cache
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.csproj.CoreCompileInputs.cache
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.csproj.CopyComplete
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.exe
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\obj\Debug\VTYS Proje App.pdb
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\office.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\Eczane_projesi\VTYS Proje App\VTYS Proje App\bin\Debug\office.xml
